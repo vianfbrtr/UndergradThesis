@@ -212,5 +212,70 @@ Setiap variabel yang dibuat menyimpan nilai dalam bentuk tipe data \emph{array},
 \subsection{Pembuatan GUI Sistem}
 Setelah model visualisasi selesai dibangun, selanjutnya dilakukan pembuatan antarmuka sistem yang akan digunakan pengguna dalam pengoperasian BundenganDVis. Secara garis besar antarmuka BundenganDVis terdiri dari menu navigasi pada sebelah kiri dan layar utama di sebelah kanan. Menu navigasi berisi tombol-tombol yang mengontrol tayangan pada layar utama. Berikut ini adalah tombol-tombol pada menu navigasi beserta dengan fungsinya: \par 
 
+\begin{enumerate}
+	\item Tombol "Beranda" berfungsi mengarahkan layar utama pada laman beranda.
+	\item Tombol "Bundengan \#1" berfungsi mengarahkan layar utama pada laman data mengenai \bundengan 1, yaitu \bundengan yang dimainkan oleh musisi senior.
+	\item Tombol "Bundengan \#2" berfungsi mengarahkan layar utama pada laman data mengenai \bundengan 2, yaitu \bundengan yang dimainkan oleh musisi muda.
+	\item Tombol "Bandingkan" berfungsi mengarahkan layar utama pada laman fitur perbandingan direktivitas antar frekuensi alami setiap \emph{bundengan}.
+	\item Tombol "Bantuan" berfungsi mengarahkan layar utama pada laman bantuan (spesifikasi no. 1).
+	\item Tombol "Tentang" berfungsi menampilkan jendela yang berisi informasi mengenai Tim Akustika Musik UGM.
+\end{enumerate}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=13cm]{Gambar/laman-beranda.jpg}
+	\caption{Tampilan laman Beranda BundenganDVis.}
+	\label{fig:home-app}
+\end{figure}
+
+Laman Beranda adalah laman awal dari BundenganDVis. Layar utama pada BundenganDVis diatur supaya menampilkan laman ini ketika pengguna pertama kali membuka BundenganDVis. Laman beranda berisi penjelasan mengenai tujuan utama dibangunnya program BundenganDVis, yaitu terciptanya pementasan \bundengan dengan kualitas suara yang lebih baik. Penjelasan ini ditampilkan supaya pengguna menyadari bahwa pemahamannya terkait data direktivitas \bundengan sangat diperlukan demi tercapainya konservasi alat musik \emph{bundengan}. Tampilan laman beranda diperlihatkan pada Gambar \ref{fig:home-app}. \par 
+
+
+Laman Bundengan \#1 dan Bundengan \#2 adalah laman fungsional utama yang menampilkan data direktivitas untuk masing-masing \emph{bundengan}. Setiap laman berisi deskripsi singkat setiap \bundengan beserta foto pada saat dimainkan dan juga tombol untuk mengakses data tiap senar pada \bundengan tersebut. Ketika salah satu tombol senar dipilih, layar utama akan menampilkan tampilan grafik kontur untuk senar tersebut. Selain itu, terdapat pilihan untuk mengganti tayangan pada layar utama menjadi tampilan plot diagram polar untuk melihat bagaimana direktivitas setiap frekuensi alami senar tersebut. Pada Gambar \ref{fig:b2-app} diperlihatkan salah satu laman fungsional utama yaitu laman untuk \bundengan \#2. \par 
+
+\begin{figure}[b!]
+	\centering
+	\includegraphics[width=13.5cm]{Gambar/laman-bundengan-2.jpg}
+	\caption{Tampilan laman bundengan \#2.}
+	\label{fig:b2-app}
+\end{figure}
+
+Pada laman Bandingkan, pengguna dapat memilih tiga pilihan perbandingan. Pengguna dapat membandingkan direktivitas dari frekuensi alami antar senar dari \bundengan 1, frekuensi alami antar senar \bundengan 2, atau frekuensi alami antar \emph{bundengan}. Laman ini dibuat karena laman Bundengan \#1 dan Bundengan \#2 tidak dapat digunakan untuk membandingkan frekuensi alami dari dua senar yang berbeda. Laman Bandingkan diperlihatkan pada Gambar \ref{fig:compare-app}. \par 
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=14cm]{Gambar/laman-bandingkan.jpg}
+	\caption{Tampilan laman fitur perbandingan frekuensi alami.}
+	\label{fig:compare-app}
+\end{figure}
+
+Laman Bantuan berisi beberapa penjelasan terkait model visualisasi yang ditampilkan. Penjelasan dimulai dari mengenalkan \bundengan apa saja yang ada pada program dan proses pengukuran data dengan menunjukkan susunan mikrofon seperti pada Gambar \ref{fig:bundenganBatasanMasalah}. Setelah pengguna melihat posisi \bundengan relatif terhadap penempatan mikrofon, disampaikan bahwa setiap frekuensi alami (disampaikan dalam istilah "nada") ditampilkan dalam bentuk pola garis pada bidang yang sama persis dengan kondisi perekaman. Setelah itu dijelaskan apa maksud dari ditampilkannya grafik kontur, yaitu supaya pengguna dapat melihat bagaimana data keseluruhan yang terekam dan juga dapat melihat bagaimana frekuensi alami \bundengan terlihat jelas berada di antara derau yang ikut terekam. Setiap penjelasan mengenai model visualisasi dilengkapi dengan petunjuk bagaimana membaca model visualisasi tersebut. Pada Gambar \ref{fig:help-app} diperlihatkan laman bantuan yang menjelaskan bagaimana cara membaca plot diagram polar. \par 
+
+\begin{figure}[t!]
+	\centering
+	\includegraphics[width=13cm]{Gambar/laman-help.jpg}
+	\caption{Tampilan laman Bantuan BundenganDVis.}
+	\label{fig:help-app}
+\end{figure}
+
+Antarmuka BundenganDVis dibangun menggunakan QtDesigner, yaitu sebuah program yang membantu memudahkan pembangunan antarmuka berbasis Python menggunakan modul PyQt. Dengan QtDesigner setiap elemen grafis seperti tombol, tab, halaman, kotak centang, warna, dan teks disusun sedemikian sehingga tampak seperti yang direncanakan. Setiap elemen diberi nama khusus karena akan menjadi sebuah variabel objek ketika proses penyusunan kontrol program. \par 
+
+Proses terakhir dari pembangunan BundenganDVis adalah menghubungkan model visualisasi dengan antarmuka yang telah dibangun. Proses ini dimulai dari mengatur fungsi untuk setiap tombol sampai dengan menampilkan model visualisasi pada area antarmuka yang telah disediakan. Seluruh proses ini dibangun menggunakan bahasa pemrograman Python. Setelah program berjalan dengan semestinya, program diekspor ke dalam format yang dapat dieksekusi oleh komputer yang tidak terpasang bahasa pemrograman Python dan pustaka-pustaka yang digunakan (.exe). Tayangan penggunaan BundenganDVis dapat dilihat dengan mengakses tautan yang terdapat pada Lampiran A. Pada halaman tersebut juga terdapat tautan untuk mengunduh BundenganDVis. \par 
+
+
 \section{Pengujian Sistem oleh Calon Pengguna}
-\lipsum[6]
+Untuk mengetahui apakah BundenganDVis bekerja dengan baik saat di kemudian hari digunakan dalam perancangan pementasan \emph{bundengan}, perlu dilakukan pengujian kinerja oleh calon pengguna. Penulis meminta lima orang responden untuk menggunakan program BundenganDVis di perangkat pribadi. Untuk pengujian sebuah sistem yang melibatkan pengalaman pengguna, lima responden adalah jumlah yang tepat untuk sistem dengan segmentasi pengguna yang sempit \cite{5user}. Hal ini untuk menghindari hasil penilaian serupa yang berulang. \par 
+
+Idealnya pada pengujian ini responden adalah representasi pengguna, yaitu para pemusik \bundengan yang cukup familiar dengan teknologi komputer. Akan tetapi, akibat dari \bundengan yang begitu terancam punah penulis kesulitan mendapatkan responden dengan kriteria tersebut. Hanya satu responden yang sesuai dengan kriteria pengguna, yaitu narasumber yang diwawancarai ketika proses identifikasi kebutuhan pengguna. Empat responden lainnya adalah orang-orang yang cukup familiar dengan musik namun minim pengetahuan mengenai ilmu akustika. Hal ini supaya penilaian dari keempat responden tersebut mampu mewakili penilaian calon-calon musisi \bundengan baru yang juga minim pengetahuan mengenai ilmu akustika. \par 
+
+\newpage
+Setelah responden menggunakan BundenganDVis, penulis melakukan survei berbasis SUS. Proses penggunaan dan penilaian dilakukan responden tanpa ada intervensi dan bantuan dari penulis. Berikut adalah total skor SUS untuk masingmasing responden beserta interpretasinya berdasarkan rentang pada Gambar \ref{fig:SUSAdjective}:
+\begin{enumerate}
+	\item Responden pertama adalah mahasiswa Teknik Informatika yang hanya seorang pendengar musik. Ia memberi penilaian dengan total skor SUS sebesar 57,5. Nilai ini menunjukkan kinerja BundenganDVis bersifat "GOOD" dan masih dapat diterima.
+	\item Responden kedua adalah pemusik \bundengan yang diwawancara pada saat identifikasi kebutuhan pengguna. Beliau memberi penilaian dengan total skor SUS sebesar 60. Nilai ini menunjukkan kinerja BundenganDVis bersifat "GOOD" dan masih dapat diterima.
+	\item Responden ketiga adalah sarjana Teknik Kimia yang hobi bermain alat musik perkusi. Ia memberi penilaian dengan total skor SUS sebesar 92,5. Nilai ini menunjukkan kinerja BundenganDVis bersifat "BEST IMAGINABLE" dan dapat diterima.
+	\item Responden keempat adalah karyawan swasta yang hobi bermain gitar. Ia memberi penilaian dengan total skor SUS sebesar 80. Nilai ini menunjukkan kinerja BundenganDVis bersifat "EXCELLENT" dan dapat diterima.
+	\item Responden keempat adalah karyawan swasta yang hobi bermain \emph{keyboard}. Ia memberi penilaian dengan total skor SUS sebesar 80. Nilai ini menunjukkan kinerja BundenganDVis bersifat "EXCELLENT" dan dapat diterima.
+\end{enumerate}
+Nilai yang diberikan setiap responden pada tiap pertanyaan dapat dilihat melalui tautan pada Lampiran A. Dari seluruh nilai SUS yang diberikan oleh responden, rata-rata total skor yang didapat oleh BundenganDVis adalah 74 dengan nilai simpangan baku 14,9. Nilai ini menunjukkan bahwa BundenganDVis masih dapat diterima oleh pengguna dengan latar belakang ilmu akustika yang minim. Meskipun demikian, nilai yang diberikan oleh responden pertama dan kedua menunjukkan bahwa pengguna dengan latar belakang ilmu sains yang sangat minim tetap perlu bimbingan ketika menggunakan BundenganDVis. \par 
+
