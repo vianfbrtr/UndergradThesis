@@ -1,0 +1,1227 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.8)  20 MAR 2022 11:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**skripsi.tex
+(./skripsi.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (./skripsidtntf.cls
+Document Class: skripsidtntf 2018/11/20 v2.1 The Department of Nuclear Engineer
+ing and Engineering Physics UGM Skripsi Class
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/24 3.56 The Babel package
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count179
+\U@D=\dimen138
+\l@babelnohyphens=\language87
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count180
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-indonesian/bahasa.ldf
+Language: bahasa 2017/02/15 v1.0m Bahasa Indonesia support from the babel syste
+m
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-indonesian/indonesian.ldf
+Language: indonesian 2017/02/15 v1.0m Bahasa Indonesia support from the babel s
+ystem
+))) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count181
+\ST@wd=\dimen141
+\ST@rightskip=\skip47
+\ST@leftskip=\skip48
+\ST@parfillskip=\skip49
+\ST@pageleft=\dimen142
+\ST@headht=\dimen143
+\ST@tailht=\dimen144
+\ST@pagesofar=\dimen145
+\ST@pboxht=\dimen146
+\ST@lineht=\dimen147
+\ST@prevht=\dimen148
+\ST@toadd=\dimen149
+\ST@dimen=\dimen150
+\ST@pbox=\box47
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip50
+\multirow@cntb=\count182
+\multirow@dima=\skip51
+\bigstrutjot=\dimen151
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count183
+\rotFPtop=\skip52
+\rotFPbot=\skip53
+\rot@float@box=\box48
+\rot@mess@toks=\toks16
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count184
+\c@chapter=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\bibindent=\dimen152
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count193
+\c@@ppsavesec=\count194
+\c@@ppsaveapp=\count195
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2020/12/29 v5.5 Nomenclature package
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+)
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2021/03/17 v3.33 KOMA-Script package (handling toc-files)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2021/03/17 v3.33 KOMA-Script package (file load hooks)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2021/03/17 v3.33 KOMA-Script package (using LaTeX hooks)
+
+
+LaTeX3 Info: Defining command \BeforeFile with sig. 'm' on line 61.
+
+
+LaTeX3 Info: Defining command \AfterFile with sig. 'm' on line 65.
+
+
+LaTeX3 Info: Defining command \BeforeClass with sig. 'm' on line 69.
+
+
+LaTeX3 Info: Defining command \BeforePackage with sig. 'm' on line 73.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfClass with sig. 'smo+m' on line 83.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfPackage with sig. 'smo+m' on line
+(LaTeX3)     93.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterClass with sig. 'smo+m' on line
+(LaTeX3)     173.
+
+
+LaTeX3 Info: Defining command \AfterClass with sig. '' on line 174.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterPackage with sig. 'smo+m' on line
+(LaTeX3)     191.
+
+
+LaTeX3 Info: Defining command \AfterPackage with sig. '' on line 192.
+
+
+LaTeX3 Info: Defining command \ReplaceInput with sig. '' on line 193.
+
+
+LaTeX3 Info: Defining command \ReplaceClass with sig. 'mm' on line 196.
+
+
+LaTeX3 Info: Defining command \ReplacePackage with sig. 'mm' on line 199.
+
+
+LaTeX3 Info: Defining command \UnReplaceInput with sig. '' on line 200.
+
+
+LaTeX3 Info: Defining command \UnReplaceClass with sig. 'm' on line 203.
+
+
+LaTeX3 Info: Defining command \UnReplacePackage with sig. 'mm' on line 206.
+
+
+LaTeX3 Info: Defining command \PreventPackageFromLoading with sig. 's+om' on
+(LaTeX3)     line 234.
+
+
+LaTeX3 Info: Defining command \StorePreventPackageFromLoading with sig. 'm' on
+(LaTeX3)     line 242.
+
+
+LaTeX3 Info: Defining command \ResetPreventPackageFromLoading with sig. '' on
+(LaTeX3)     line 247.
+
+
+LaTeX3 Info: Defining command \UnPreventPackageFromLoading with sig. 'sm' on
+(LaTeX3)     line 261.
+
+
+LaTeX3 Info: Defining command \BeforeClosingMainAux with sig. 'om' on line
+(LaTeX3)     274.
+
+
+LaTeX3 Info: Defining command \AfterReadingMainAux with sig. 'om' on line 287.
+
+
+LaTeX3 Info: Defining command \protected@immediate@write with sig. 'm+m+m' on
+(LaTeX3)     line 298.
+
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2021/03/17 v3.33 KOMA-Script package (logo)
+)))
+Skipping: [2021/05/01] Usage of raw option list on input line 252.
+Applying: [0000/00/00] compatibility for LaTeX before 2021/05/01 on input line 
+337.
+)
+\scr@dte@tocline@numberwidth=\skip56
+\scr@dte@tocline@numbox=\box49
+)
+Package tocbasic Info: setting babel extension for `nlo' on input line 187.
+Package tocbasic Info: setting babel extension for `nls' on input line 188.
+\nomlabelwidth=\dimen153
+\nom@tempdim=\dimen154
+\nomitemsep=\skip57
+)
+\@nomenclaturefile=\write3
+\openout3 = `skripsi.nlo'.
+
+Package nomencl Info: Writing nomenclature file skripsi.nlo on input line 85.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip58
+\cftbeforetoctitleskip=\skip59
+\cftaftertoctitleskip=\skip60
+\cftbeforepartskip=\skip61
+\cftpartnumwidth=\skip62
+\cftpartindent=\skip63
+\cftbeforechapskip=\skip64
+\cftchapindent=\skip65
+\cftchapnumwidth=\skip66
+\cftbeforesecskip=\skip67
+\cftsecindent=\skip68
+\cftsecnumwidth=\skip69
+\cftbeforesubsecskip=\skip70
+\cftsubsecindent=\skip71
+\cftsubsecnumwidth=\skip72
+\cftbeforesubsubsecskip=\skip73
+\cftsubsubsecindent=\skip74
+\cftsubsubsecnumwidth=\skip75
+\cftbeforeparaskip=\skip76
+\cftparaindent=\skip77
+\cftparanumwidth=\skip78
+\cftbeforesubparaskip=\skip79
+\cftsubparaindent=\skip80
+\cftsubparanumwidth=\skip81
+\cftbeforeloftitleskip=\skip82
+\cftafterloftitleskip=\skip83
+\cftbeforefigskip=\skip84
+\cftfigindent=\skip85
+\cftfignumwidth=\skip86
+\cftbeforelottitleskip=\skip87
+\cftafterlottitleskip=\skip88
+\cftbeforetabskip=\skip89
+\cfttabindent=\skip90
+\cfttabnumwidth=\skip91
+\cftbeforesubfigskip=\skip92
+\cftsubfigindent=\skip93
+\cftsubfignumwidth=\skip94
+\cftbeforesubtabskip=\skip95
+\cftsubtabindent=\skip96
+\cftsubtabnumwidth=\skip97
+)
+\lebar=\skip98
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip99
+\enit@outerparindent=\dimen155
+\enit@toks=\toks19
+\enit@inbox=\box50
+\enit@count@id=\count197
+\enitdp@description=\count198
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen156
+\captionmargin@=\dimen157
+\captionwidth=\dimen158
+\caption@tempdima=\dimen159
+\caption@indent=\dimen160
+\caption@parindent=\dimen161
+\caption@hangindent=\dimen162
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count199
+\c@continuedfloat=\count266
+Package caption Info: rotating package is loaded.
+Package caption Info: supertabular package is loaded.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count267
+\lst@gtempboxa=\box51
+\lst@token=\toks20
+\lst@length=\count268
+\lst@currlwidth=\dimen163
+\lst@column=\count269
+\lst@pos=\count270
+\lst@lostspace=\dimen164
+\lst@width=\dimen165
+\lst@newlines=\count271
+\lst@lineno=\count272
+\lst@maxwidth=\dimen166
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count273
+\lst@skipnumbers=\count274
+\lst@framebox=\box52
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)) (./packages.tex
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip100
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen167
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen168
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count275
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count276
+\leftroot@=\count277
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count278
+\DOTSCASE@=\count279
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen169
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count280
+\c@MaxMatrixCols=\count281
+\dotsspace@=\muskip17
+\c@parentequation=\count282
+\dspbrk@lvl=\count283
+\tag@help=\toks22
+\row@=\count284
+\column@=\count285
+\maxfields@=\count286
+\andhelp@=\toks23
+\eqnshift@=\dimen170
+\alignsep@=\dimen171
+\tagshift@=\dimen172
+\tagwidth@=\dimen173
+\totwidth@=\dimen174
+\lineht@=\dimen175
+\@envbody=\toks24
+\multlinegap=\skip101
+\multlinetaggap=\skip102
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amscd.sty
+Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
+\athelp@=\toks26
+\minaw@=\dimen176
+\bigaw@=\dimen177
+\minCDarrowwidth=\dimen178
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count287
+\l__pdf_internal_box=\box55
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-
+01.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.
+tex)))
+Package: lipsum 2021-03-03 v2.3 150 paragraphs of Lorem Ipsum dummy text
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+File: lipsum.ltd.tex 2021-03-03 v2.3 The Lorem ipsum dummy text
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/notoccite/notoccite.sty
+Package: notoccite 2000/07/20
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip103
+\subfigcapskip=\skip104
+\subfigcaptopadj=\dimen179
+\subfigbottomskip=\skip105
+\subfigcapmargin=\dimen180
+\subfiglabelskip=\skip106
+\c@subfigure=\count288
+\c@lofdepth=\count289
+\c@subtable=\count290
+\c@lotdepth=\count291
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2021/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip107
+\subfig@bottom=\skip108
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box56
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen181
+\ar@mcellbox=\box57
+\extrarowheight=\dimen182
+\NC@list=\toks27
+\extratabsurround=\skip109
+\backup@length=\skip110
+\ar@cellbox=\box58
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count292
+\mult@box=\box59
+\multicol@leftmargin=\dimen183
+\c@unbalance=\count293
+\c@collectmore=\count294
+\doublecol@number=\count295
+\multicoltolerance=\count296
+\multicolpretolerance=\count297
+\full@width=\dimen184
+\page@free=\dimen185
+\premulticols=\dimen186
+\postmulticols=\dimen187
+\multicolsep=\skip111
+\multicolbaselineskip=\skip112
+\partial@page=\box60
+\last@line=\box61
+\maxbalancingoverflow=\dimen188
+\mult@rightbox=\box62
+\mult@grightbox=\box63
+\mult@gfirstbox=\box64
+\mult@firstbox=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\c@minrows=\count298
+\c@columnbadness=\count299
+\c@finalcolumnbadness=\count300
+\last@try=\dimen189
+\multicolovershoot=\dimen190
+\multicolundershoot=\dimen191
+\mult@nat@firstbox=\box103
+\colbreak@box=\box104
+\mc@col@check@num=\count301
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen192
+\lightrulewidth=\dimen193
+\cmidrulewidth=\dimen194
+\belowrulesep=\dimen195
+\belowbottomsep=\dimen196
+\aboverulesep=\dimen197
+\abovetopsep=\dimen198
+\cmidrulesep=\dimen199
+\cmidrulekern=\dimen256
+\defaultaddspace=\dimen257
+\@cmidla=\count302
+\@cmidlb=\count303
+\@aboverulesep=\dimen258
+\@belowrulesep=\dimen259
+\@thisruleclass=\count304
+\@lastruleclass=\count305
+\@thisrulewidth=\dimen260
+))
+(./data_skripsi.tex)
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 5.
+
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+) (./skripsi.aux
+
+LaTeX Warning: Label `fig:mesh-viridis' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:mesh-viridis' multiply defined.
+
+)
+\openout1 = `skripsi.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count306
+\scratchdimen=\dimen261
+\scratchbox=\box105
+\nofMPsegments=\count307
+\nofMParguments=\count308
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count309
+\MPscratchDim=\dimen262
+\MPnumerator=\count310
+\makeMPintoPDFobject=\count311
+\everyMPtoPDFconversion=\toks29
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: threeparttable package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count312
+
+(./muka_skripsi.tex
+<logoUGM.jpg, id=1, 297.7524pt x 302.0886pt>
+File: logoUGM.jpg Graphic file (type jpg)
+<use logoUGM.jpg>
+Package pdftex.def Info: logoUGM.jpg  used on input line 2.
+(pdftex.def)             Requested size: 156.49014pt x 158.76942pt.
+ [1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logoU
+GM.jpg>]
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 3.
+
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (8.64542pt too wide) in paragraph at lines 3--3
+[][] 
+ []
+
+[2] [3] (./persembahan.tex) [4
+
+] (./motto.tex) [5
+
+] (./prakata.tex [6
+
+]) [7]
+(./skripsi.toc [8
+
+] [9])
+\tf@toc=\write4
+\openout4 = `skripsi.toc'.
+
+ [10] (./skripsi.lot)
+\tf@lot=\write5
+\openout5 = `skripsi.lot'.
+
+ [11
+
+] (./skripsi.lof [12
+
+] [13]
+Overfull \hbox (1.74911pt too wide) in paragraph at lines 53--53
+ \T1/ptm/m/n/12 ba-sis ga-ris de-ngan 7-dimensi da-ta pa-da ko-o-rdi-nat pa-ra-
+lel [[]]. 
+ []
+
+[14]
+Overfull \hbox (3.47754pt too wide) in paragraph at lines 79--79
+ [][] []\T1/ptm/m/n/12 Contoh pe-nu-lis-an ju-dul gam-bar dan pe-le-takk-an gam
+-bar. Gam- 
+ []
+
+)
+\tf@lof=\write6
+\openout6 = `skripsi.lof'.
+
+ [15] (./skripsi.nls [16
+
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+8.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)) (./lambang.tex) [17] (./abstrakind.tex) [18
+
+] (./abstrakeng.tex) [19
+
+]) (./Bab1.tex
+BAB I.
+[1
+
+
+]
+<Gambar/bundengan_full.jpg, id=77, 963.6pt x 1288.815pt>
+File: Gambar/bundengan_full.jpg Graphic file (type jpg)
+<use Gambar/bundengan_full.jpg>
+Package pdftex.def Info: Gambar/bundengan_full.jpg  used on input line 9.
+(pdftex.def)             Requested size: 199.16928pt x 266.37201pt.
+<Gambar/pelat-bambu.jpg, id=78, 752.8125pt x 752.8125pt>
+File: Gambar/pelat-bambu.jpg Graphic file (type jpg)
+<use Gambar/pelat-bambu.jpg>
+Package pdftex.def Info: Gambar/pelat-bambu.jpg  used on input line 15.
+(pdftex.def)             Requested size: 128.0374pt x 128.03386pt.
+<Gambar/senar-bandulan.jpg, id=79, 633.36626pt x 633.36626pt>
+File: Gambar/senar-bandulan.jpg Graphic file (type jpg)
+<use Gambar/senar-bandulan.jpg>
+Package pdftex.def Info: Gambar/senar-bandulan.jpg  used on input line 17.
+(pdftex.def)             Requested size: 128.0374pt x 128.03368pt.
+<Gambar/Kowangan_PelindungKepala.jpg, id=80, 468.22816pt x 532.35507pt>
+File: Gambar/Kowangan_PelindungKepala.jpg Graphic file (type jpg)
+<use Gambar/Kowangan_PelindungKepala.jpg>
+Package pdftex.def Info: Gambar/Kowangan_PelindungKepala.jpg  used on input lin
+e 22.
+(pdftex.def)             Requested size: 142.26378pt x 161.74664pt.
+<Gambar/KowanganDimainkan.jpg, id=81, 923.45pt x 1049.9225pt>
+File: Gambar/KowanganDimainkan.jpg Graphic file (type jpg)
+<use Gambar/KowanganDimainkan.jpg>
+Package pdftex.def Info: Gambar/KowanganDimainkan.jpg  used on input line 24.
+(pdftex.def)             Requested size: 142.26378pt x 161.74303pt.
+ [2 <./Gambar/bundengan_full.jpg> <./Gambar/pelat-bambu.jpg> <./Gambar/senar-ba
+ndulan.jpg>]
+<Gambar/Pentas Bundengan.jpg, id=85, 270.7716pt x 180.675pt>
+File: Gambar/Pentas Bundengan.jpg Graphic file (type jpg)
+<use Gambar/Pentas Bundengan.jpg>
+Package pdftex.def Info: Gambar/Pentas Bundengan.jpg  used on input line 32.
+(pdftex.def)             Requested size: 270.30118pt x 180.37404pt.
+ [3 <./Gambar/Kowangan_PelindungKepala.jpg> <./Gambar/KowanganDimainkan.jpg>] [
+4 <./Gambar/Pentas Bundengan.jpg>]
+<Gambar/diagramPolarBiola.jpg, id=92, 533.8819pt x 518.10464pt>
+File: Gambar/diagramPolarBiola.jpg Graphic file (type jpg)
+<use Gambar/diagramPolarBiola.jpg>
+Package pdftex.def Info: Gambar/diagramPolarBiola.jpg  used on input line 49.
+(pdftex.def)             Requested size: 312.9803pt x 303.7264pt.
+ [5]
+<Gambar/contohDataDirektivitas.jpg, id=96, 420.82219pt x 325.215pt>
+File: Gambar/contohDataDirektivitas.jpg Graphic file (type jpg)
+<use Gambar/contohDataDirektivitas.jpg>
+Package pdftex.def Info: Gambar/contohDataDirektivitas.jpg  used on input line 
+57.
+(pdftex.def)             Requested size: 284.52756pt x 219.88779pt.
+ [6 <./Gambar/diagramPolarBiola.jpg>]
+<Gambar/gundulPacul.jpg, id=101, 1358.07375pt x 524.96124pt>
+File: Gambar/gundulPacul.jpg Graphic file (type jpg)
+<use Gambar/gundulPacul.jpg>
+Package pdftex.def Info: Gambar/gundulPacul.jpg  used on input line 65.
+(pdftex.def)             Requested size: 398.33858pt x 153.97308pt.
+ [7 <./Gambar/contohDataDirektivitas.jpg>]
+<Gambar/bundenganBatasanMasalah.jpg, id=105, 365.9305pt x 262.10599pt>
+File: Gambar/bundenganBatasanMasalah.jpg Graphic file (type jpg)
+<use Gambar/bundenganBatasanMasalah.jpg>
+Package pdftex.def Info: Gambar/bundenganBatasanMasalah.jpg  used on input line
+ 79.
+(pdftex.def)             Requested size: 284.52756pt x 203.80994pt.
+ [8 <./Gambar/gundulPacul.jpg>] [9 <./Gambar/bundenganBatasanMasalah.jpg>]) (./
+Bab2.tex [10]
+BAB II.
+[11
+
+]
+<Gambar/potonganBambu.jpg, id=118, 847.165pt x 847.165pt>
+File: Gambar/potonganBambu.jpg Graphic file (type jpg)
+<use Gambar/potonganBambu.jpg>
+Package pdftex.def Info: Gambar/potonganBambu.jpg  used on input line 10.
+(pdftex.def)             Requested size: 133.72795pt x 133.7265pt.
+<Gambar/slumpring.jpg, id=119, 847.165pt x 847.165pt>
+File: Gambar/slumpring.jpg Graphic file (type jpg)
+<use Gambar/slumpring.jpg>
+Package pdftex.def Info: Gambar/slumpring.jpg  used on input line 12.
+(pdftex.def)             Requested size: 133.72795pt x 133.7265pt.
+<Gambar/bilahBambu-mentah.jpg, id=120, 847.165pt x 847.165pt>
+File: Gambar/bilahBambu-mentah.jpg Graphic file (type jpg)
+<use Gambar/bilahBambu-mentah.jpg>
+Package pdftex.def Info: Gambar/bilahBambu-mentah.jpg  used on input line 14.
+(pdftex.def)             Requested size: 133.72795pt x 133.7265pt.
+<Gambar/menganyamKerangka.jpg, id=121, 847.165pt x 847.165pt>
+File: Gambar/menganyamKerangka.jpg Graphic file (type jpg)
+<use Gambar/menganyamKerangka.jpg>
+Package pdftex.def Info: Gambar/menganyamKerangka.jpg  used on input line 20.
+(pdftex.def)             Requested size: 133.72795pt x 133.7265pt.
+<Gambar/memincukKerangka.jpg, id=122, 847.165pt x 847.165pt>
+File: Gambar/memincukKerangka.jpg Graphic file (type jpg)
+<use Gambar/memincukKerangka.jpg>
+Package pdftex.def Info: Gambar/memincukKerangka.jpg  used on input line 22.
+(pdftex.def)             Requested size: 133.72795pt x 133.7265pt.
+<Gambar/memasangSlumpring.jpg, id=123, 847.165pt x 847.165pt>
+File: Gambar/memasangSlumpring.jpg Graphic file (type jpg)
+<use Gambar/memasangSlumpring.jpg>
+Package pdftex.def Info: Gambar/memasangSlumpring.jpg  used on input line 24.
+(pdftex.def)             Requested size: 133.72795pt x 133.7265pt.
+<Gambar/mengikatIJUK.jpg, id=124, 847.165pt x 847.165pt>
+File: Gambar/mengikatIJUK.jpg Graphic file (type jpg)
+<use Gambar/mengikatIJUK.jpg>
+Package pdftex.def Info: Gambar/mengikatIJUK.jpg  used on input line 26.
+(pdftex.def)             Requested size: 133.72795pt x 133.7265pt.
+ [12 <./Gambar/potonganBambu.jpg> <./Gambar/slumpring.jpg> <./Gambar/bilahBambu
+-mentah.jpg>]
+<Gambar/strukturBundengan.jpg, id=129, 249.89134pt x 297.73204pt>
+File: Gambar/strukturBundengan.jpg Graphic file (type jpg)
+<use Gambar/strukturBundengan.jpg>
+Package pdftex.def Info: Gambar/strukturBundengan.jpg  used on input line 33.
+(pdftex.def)             Requested size: 227.62204pt x 271.19553pt.
+ [13 <./Gambar/menganyamKerangka.jpg> <./Gambar/memincukKerangka.jpg> <./Gambar
+/memasangSlumpring.jpg> <./Gambar/mengikatIJUK.jpg>] [14 <./Gambar/strukturBund
+engan.jpg>] [15]
+<Gambar/highSpeedRecordData.jpg, id=139, 779.70169pt x 802.09521pt>
+File: Gambar/highSpeedRecordData.jpg Graphic file (type jpg)
+<use Gambar/highSpeedRecordData.jpg>
+Package pdftex.def Info: Gambar/highSpeedRecordData.jpg  used on input line 51.
+
+(pdftex.def)             Requested size: 369.88582pt x 380.50963pt.
+<Gambar/spektrumFrekPaperParikesit.jpg, id=140, 1200.08916pt x 614.80394pt>
+File: Gambar/spektrumFrekPaperParikesit.jpg Graphic file (type jpg)
+<use Gambar/spektrumFrekPaperParikesit.jpg>
+Package pdftex.def Info: Gambar/spektrumFrekPaperParikesit.jpg  used on input l
+ine 58.
+(pdftex.def)             Requested size: 398.33858pt x 204.06795pt.
+ [16 <./Gambar/highSpeedRecordData.jpg>]
+[17 <./Gambar/spektrumFrekPaperParikesit.jpg>]
+<Gambar/spekFrekBedaPetik.jpg, id=147, 397.99394pt x 521.66725pt>
+File: Gambar/spekFrekBedaPetik.jpg Graphic file (type jpg)
+<use Gambar/spekFrekBedaPetik.jpg>
+Package pdftex.def Info: Gambar/spekFrekBedaPetik.jpg  used on input line 70.
+(pdftex.def)             Requested size: 227.62204pt x 298.35637pt.
+ [18] [19 <./Gambar/spekFrekBedaPetik.jpg>]
+<Gambar/tampakKananRaymond.jpg, id=155, 847.165pt x 847.165pt>
+File: Gambar/tampakKananRaymond.jpg Graphic file (type jpg)
+<use Gambar/tampakKananRaymond.jpg>
+Package pdftex.def Info: Gambar/tampakKananRaymond.jpg  used on input line 81.
+(pdftex.def)             Requested size: 142.26378pt x 142.2581pt.
+<Gambar/tampakKiriRaymond.jpg, id=156, 847.165pt x 847.165pt>
+File: Gambar/tampakKiriRaymond.jpg Graphic file (type jpg)
+<use Gambar/tampakKiriRaymond.jpg>
+Package pdftex.def Info: Gambar/tampakKiriRaymond.jpg  used on input line 83.
+(pdftex.def)             Requested size: 142.26378pt x 142.2581pt.
+ [20]
+<Gambar/fokusSuaraKowangan.jpg, id=160, 430.05739pt x 346.0817pt>
+File: Gambar/fokusSuaraKowangan.jpg Graphic file (type jpg)
+<use Gambar/fokusSuaraKowangan.jpg>
+Package pdftex.def Info: Gambar/fokusSuaraKowangan.jpg  used on input line 106.
+
+(pdftex.def)             Requested size: 227.62204pt x 183.17422pt.
+ [21 <./Gambar/tampakKananRaymond.jpg> <./Gambar/tampakKiriRaymond.jpg>] [22 <.
+/Gambar/fokusSuaraKowangan.jpg>]
+<Gambar/fokusSuaraKowanganSamping.jpg, id=167, 335.90282pt x 263.12387pt>
+File: Gambar/fokusSuaraKowanganSamping.jpg Graphic file (type jpg)
+<use Gambar/fokusSuaraKowanganSamping.jpg>
+Package pdftex.def Info: Gambar/fokusSuaraKowanganSamping.jpg  used on input li
+ne 119.
+(pdftex.def)             Requested size: 227.62204pt x 178.30757pt.
+ [23] [24 <./Gambar/fokusSuaraKowanganSamping.jpg>]
+<Gambar/senar1yangA.jpg, id=175, 419.31656pt x 325.96782pt>
+File: Gambar/senar1yangA.jpg Graphic file (type jpg)
+<use Gambar/senar1yangA.jpg>
+Package pdftex.def Info: Gambar/senar1yangA.jpg  used on input line 138.
+(pdftex.def)             Requested size: 184.9429pt x 143.76947pt.
+<Gambar/senar4yangB.jpg, id=176, 420.82219pt x 328.97906pt>
+File: Gambar/senar4yangB.jpg Graphic file (type jpg)
+<use Gambar/senar4yangB.jpg>
+Package pdftex.def Info: Gambar/senar4yangB.jpg  used on input line 138.
+(pdftex.def)             Requested size: 184.9429pt x 144.58055pt.
+<Gambar/senar2yangA.jpg, id=177, 421.575pt x 330.48468pt>
+File: Gambar/senar2yangA.jpg Graphic file (type jpg)
+<use Gambar/senar2yangA.jpg>
+Package pdftex.def Info: Gambar/senar2yangA.jpg  used on input line 141.
+(pdftex.def)             Requested size: 184.9429pt x 144.98506pt.
+<Gambar/senar6yangB.jpg, id=178, 420.06938pt x 325.96782pt>
+File: Gambar/senar6yangB.jpg Graphic file (type jpg)
+<use Gambar/senar6yangB.jpg>
+Package pdftex.def Info: Gambar/senar6yangB.jpg  used on input line 141.
+(pdftex.def)             Requested size: 184.9429pt x 143.51083pt.
+<Gambar/senar3yangA.jpg, id=179, 423.83344pt x 334.24875pt>
+File: Gambar/senar3yangA.jpg Graphic file (type jpg)
+<use Gambar/senar3yangA.jpg>
+Package pdftex.def Info: Gambar/senar3yangA.jpg  used on input line 144.
+(pdftex.def)             Requested size: 184.9429pt x 145.85094pt.
+<Gambar/senar8yangB.jpg, id=180, 419.31656pt x 322.20375pt>
+File: Gambar/senar8yangB.jpg Graphic file (type jpg)
+<use Gambar/senar8yangB.jpg>
+Package pdftex.def Info: Gambar/senar8yangB.jpg  used on input line 144.
+(pdftex.def)             Requested size: 184.9429pt x 142.10931pt.
+ [25] [26 <./Gambar/senar1yangA.jpg> <./Gambar/senar4yangB.jpg> <./Gambar/senar
+2yangA.jpg> <./Gambar/senar6yangB.jpg> <./Gambar/senar3yangA.jpg> <./Gambar/sen
+ar8yangB.jpg>] [27]
+<Gambar/Neume2.jpg, id=190, 803.0pt x 501.875pt>
+File: Gambar/Neume2.jpg Graphic file (type jpg)
+<use Gambar/Neume2.jpg>
+Package pdftex.def Info: Gambar/Neume2.jpg  used on input line 162.
+(pdftex.def)             Requested size: 284.52756pt x 177.83374pt.
+ [28 <./Gambar/Neume2.jpg>]
+<Gambar/Graduale_Aboense.jpg, id=194, 481.8pt x 415.5525pt>
+File: Gambar/Graduale_Aboense.jpg Graphic file (type jpg)
+<use Gambar/Graduale_Aboense.jpg>
+Package pdftex.def Info: Gambar/Graduale_Aboense.jpg  used on input line 170.
+(pdftex.def)             Requested size: 256.0748pt x 220.8695pt.
+<Gambar/1015px-Barbireau_illum.jpg, id=195, 789.95125pt x 507.8975pt>
+File: Gambar/1015px-Barbireau_illum.jpg Graphic file (type jpg)
+<use Gambar/1015px-Barbireau_illum.jpg>
+Package pdftex.def Info: Gambar/1015px-Barbireau_illum.jpg  used on input line 
+176.
+(pdftex.def)             Requested size: 384.1122pt x 246.96548pt.
+ [29 <./Gambar/Graduale_Aboense.jpg> <./Gambar/1015px-Barbireau_illum.jpg>]
+<Gambar/ContohPolarPlotter.jpg, id=199, 2611.7575pt x 777.90625pt>
+File: Gambar/ContohPolarPlotter.jpg Graphic file (type jpg)
+<use Gambar/ContohPolarPlotter.jpg>
+Package pdftex.def Info: Gambar/ContohPolarPlotter.jpg  used on input line 184.
+
+(pdftex.def)             Requested size: 398.33858pt x 118.63942pt.
+ [30 <./Gambar/ContohPolarPlotter.jpg>] [31]) (./Bab3.tex [32]
+BAB III.
+[33
+
+] [34]
+<Gambar/gambar-frekuensi-03.jpg, id=219, 1099.10625pt x 786.94pt>
+File: Gambar/gambar-frekuensi-03.jpg Graphic file (type jpg)
+<use Gambar/gambar-frekuensi-03.jpg>
+Package pdftex.def Info: Gambar/gambar-frekuensi-03.jpg  used on input line 55.
+
+(pdftex.def)             Requested size: 341.43306pt x 244.4532pt.
+ [35] [36 <./Gambar/gambar-frekuensi-03.jpg>]
+<Gambar/monopol.jpg, id=227, 256.5076pt x 254.98077pt>
+File: Gambar/monopol.jpg Graphic file (type jpg)
+<use Gambar/monopol.jpg>
+Package pdftex.def Info: Gambar/monopol.jpg  used on input line 90.
+(pdftex.def)             Requested size: 142.26378pt x 141.41872pt.
+<Gambar/dipol-dobelMonopol.jpg, id=228, 374.58253pt x 261.59705pt>
+File: Gambar/dipol-dobelMonopol.jpg Graphic file (type jpg)
+<use Gambar/dipol-dobelMonopol.jpg>
+Package pdftex.def Info: Gambar/dipol-dobelMonopol.jpg  used on input line 97.
+(pdftex.def)             Requested size: 227.62204pt x 158.96323pt.
+ [37 <./Gambar/monopol.jpg>]
+<Gambar/dipol.jpg, id=232, 296.20522pt x 283.48161pt>
+File: Gambar/dipol.jpg Graphic file (type jpg)
+<use Gambar/dipol.jpg>
+Package pdftex.def Info: Gambar/dipol.jpg  used on input line 109.
+(pdftex.def)             Requested size: 142.26378pt x 136.15181pt.
+ [38 <./Gambar/dipol-dobelMonopol.jpg> <./Gambar/dipol.jpg>]
+<Gambar/direktivitas-oboe.jpg, id=236, 583.75838pt x 347.60852pt>
+File: Gambar/direktivitas-oboe.jpg Graphic file (type jpg)
+<use Gambar/direktivitas-oboe.jpg>
+Package pdftex.def Info: Gambar/direktivitas-oboe.jpg  used on input line 117.
+(pdftex.def)             Requested size: 312.9803pt x 186.36917pt.
+ [39 <./Gambar/direktivitas-oboe.jpg>]
+<Gambar/visualisasi-pipeline.jpg, id=240, 369.78917pt x 83.01076pt>
+File: Gambar/visualisasi-pipeline.jpg Graphic file (type jpg)
+<use Gambar/visualisasi-pipeline.jpg>
+Package pdftex.def Info: Gambar/visualisasi-pipeline.jpg  used on input line 13
+1.
+(pdftex.def)             Requested size: 369.88582pt x 83.03334pt.
+ [40 <./Gambar/visualisasi-pipeline.jpg>] [41]
+<Gambar/clef.jpg, id=247, 1003.75pt x 997.7275pt>
+File: Gambar/clef.jpg Graphic file (type jpg)
+<use Gambar/clef.jpg>
+Package pdftex.def Info: Gambar/clef.jpg  used on input line 148.
+(pdftex.def)             Requested size: 122.34685pt x 121.60991pt.
+File: Gambar/senar3yangA.jpg Graphic file (type jpg)
+<use Gambar/senar3yangA.jpg>
+Package pdftex.def Info: Gambar/senar3yangA.jpg  used on input line 150.
+(pdftex.def)             Requested size: 179.25235pt x 141.36275pt.
+ [42 <./Gambar/clef.jpg>] [43]
+<Gambar/clef-macam-macam.jpg, id=255, 322.20375pt x 186.6975pt>
+File: Gambar/clef-macam-macam.jpg Graphic file (type jpg)
+<use Gambar/clef-macam-macam.jpg>
+Package pdftex.def Info: Gambar/clef-macam-macam.jpg  used on input line 163.
+(pdftex.def)             Requested size: 170.71652pt x 98.92355pt.
+ [44]
+<Gambar/macam-warna.jpg, id=260, 540.49817pt x 435.14684pt>
+File: Gambar/macam-warna.jpg Graphic file (type jpg)
+<use Gambar/macam-warna.jpg>
+Package pdftex.def Info: Gambar/macam-warna.jpg  used on input line 176.
+(pdftex.def)             Requested size: 170.71652pt x 137.4438pt.
+ [45 <./Gambar/clef-macam-macam.jpg>] [46 <./Gambar/macam-warna.jpg>] [47]
+<Gambar/datamobil-visual-titik.jpg, id=271, 578.66895pt x 409.1907pt>
+File: Gambar/datamobil-visual-titik.jpg Graphic file (type jpg)
+<use Gambar/datamobil-visual-titik.jpg>
+Package pdftex.def Info: Gambar/datamobil-visual-titik.jpg  used on input line 
+193.
+(pdftex.def)             Requested size: 341.43306pt x 241.43915pt.
+ [48 <./Gambar/datamobil-visual-titik.jpg>] [49]
+<Gambar/datamobil-visual-garis.jpg, id=279, 848.91803pt x 740.00409pt>
+File: Gambar/datamobil-visual-garis.jpg Graphic file (type jpg)
+<use Gambar/datamobil-visual-garis.jpg>
+Package pdftex.def Info: Gambar/datamobil-visual-garis.jpg  used on input line 
+205.
+(pdftex.def)             Requested size: 284.52756pt x 248.01863pt.
+ [50 <./Gambar/datamobil-visual-garis.jpg>]
+<Gambar/datamobil-visual-area.jpg, id=283, 1643.13875pt x 1141.26375pt>
+File: Gambar/datamobil-visual-area.jpg Graphic file (type jpg)
+<use Gambar/datamobil-visual-area.jpg>
+Package pdftex.def Info: Gambar/datamobil-visual-area.jpg  used on input line 2
+14.
+(pdftex.def)             Requested size: 284.52756pt x 197.61702pt.
+ [51 <./Gambar/datamobil-visual-area.jpg>]
+[52] [53] [54] [55] [56] [57] [58] [59] [60]
+Overfull \hbox (10.92432pt too wide) in paragraph at lines 349--349
+[]\T1/ptm/m/n/12 Setelah me-ngo-mu-ni-ka-si-kan kon-sep pro-duk, peng-gu-na ak-
+an di-min-ta un-tuk meng-
+ []
+
+[61]
+<Gambar/adjective-sus.jpg, id=319, 1055.0402pt x 332.34021pt>
+File: Gambar/adjective-sus.jpg Graphic file (type jpg)
+<use Gambar/adjective-sus.jpg>
+Package pdftex.def Info: Gambar/adjective-sus.jpg  used on input line 386.
+(pdftex.def)             Requested size: 398.33858pt x 125.47414pt.
+ [62]) (./Bab4.tex [63 <./Gambar/adjective-sus.jpg>]
+BAB IV.
+
+Underfull \hbox (badness 2495) in paragraph at lines 23--24
+[]|\T1/ptm/m/n/12 Direkam de-ngan tu-juh mik-ro-fon
+ []
+
+<Gambar/diagram alir 4_Diagram Alir Bab 4.jpg, id=326, 720.7728pt x 716.9184pt>
+
+File: Gambar/diagram alir 4_Diagram Alir Bab 4.jpg Graphic file (type jpg)
+<use Gambar/diagram alir 4_Diagram Alir Bab 4.jpg>
+Package pdftex.def Info: Gambar/diagram alir 4_Diagram Alir Bab 4.jpg  used on 
+input line 34.
+(pdftex.def)             Requested size: 341.43306pt x 339.60994pt.
+[64
+
+] [65 <./Gambar/diagram alir 4_Diagram Alir Bab 4.jpg>] [66] [67])
+(./Bab5.tex [68]
+BAB V.
+[69
+
+]
+<Gambar/calon-pengguna.jpg, id=346, 255.77585pt x 143.87392pt>
+File: Gambar/calon-pengguna.jpg Graphic file (type jpg)
+<use Gambar/calon-pengguna.jpg>
+Package pdftex.def Info: Gambar/calon-pengguna.jpg  used on input line 29.
+(pdftex.def)             Requested size: 284.52756pt x 160.06195pt.
+ [70 <./Gambar/calon-pengguna.jpg>]
+Underfull \hbox (badness 1033) in paragraph at lines 43--44
+[]|\T1/ptm/m/n/12 Tampilan ni-lai TTB da-ri se-lu-ruh
+ []
+
+[71] [72]
+<Gambar/jet.jpg, id=357, 367.08571pt x 34.41429pt>
+File: Gambar/jet.jpg Graphic file (type jpg)
+<use Gambar/jet.jpg>
+Package pdftex.def Info: Gambar/jet.jpg  used on input line 90.
+(pdftex.def)             Requested size: 341.43306pt x 32.01125pt.
+<Gambar/viridis.jpg, id=358, 369.93784pt x 36.99379pt>
+File: Gambar/viridis.jpg Graphic file (type jpg)
+<use Gambar/viridis.jpg>
+Package pdftex.def Info: Gambar/viridis.jpg  used on input line 91.
+(pdftex.def)             Requested size: 341.43306pt x 34.14587pt.
+ [73 <./Gambar/jet.jpg> <./Gambar/viridis.jpg>]
+<Gambar/slumpring-jet.jpg, id=362, 142.03464pt x 142.03464pt>
+File: Gambar/slumpring-jet.jpg Graphic file (type jpg)
+<use Gambar/slumpring-jet.jpg>
+Package pdftex.def Info: Gambar/slumpring-jet.jpg  used on input line 100.
+(pdftex.def)             Requested size: 156.49014pt x 156.49213pt.
+<Gambar/slumpring-viridis.jpg, id=363, 142.03464pt x 142.03464pt>
+File: Gambar/slumpring-viridis.jpg Graphic file (type jpg)
+<use Gambar/slumpring-viridis.jpg>
+Package pdftex.def Info: Gambar/slumpring-viridis.jpg  used on input line 102.
+(pdftex.def)             Requested size: 156.49014pt x 156.49213pt.
+ [74 <./Gambar/slumpring-jet.jpg> <./Gambar/slumpring-viridis.jpg>]
+<Gambar/mesh-jet-before.jpg, id=367, 199.20976pt x 149.52414pt>
+File: Gambar/mesh-jet-before.jpg Graphic file (type jpg)
+<use Gambar/mesh-jet-before.jpg>
+Package pdftex.def Info: Gambar/mesh-jet-before.jpg  used on input line 111.
+(pdftex.def)             Requested size: 184.9429pt x 138.81871pt.
+<Gambar/mesh-viridis-after.jpg, id=368, 199.20976pt x 149.52414pt>
+File: Gambar/mesh-viridis-after.jpg Graphic file (type jpg)
+<use Gambar/mesh-viridis-after.jpg>
+Package pdftex.def Info: Gambar/mesh-viridis-after.jpg  used on input line 112.
+
+(pdftex.def)             Requested size: 184.9429pt x 138.81871pt.
+ [75 <./Gambar/mesh-jet-before.jpg> <./Gambar/mesh-viridis-after.jpg>]
+File: Gambar/mesh-viridis-after.jpg Graphic file (type jpg)
+<use Gambar/mesh-viridis-after.jpg>
+Package pdftex.def Info: Gambar/mesh-viridis-after.jpg  used on input line 121.
+
+(pdftex.def)             Requested size: 199.16928pt x 149.49637pt.
+<Gambar/contour-viridis.jpg, id=372, 199.20976pt x 149.52414pt>
+File: Gambar/contour-viridis.jpg Graphic file (type jpg)
+<use Gambar/contour-viridis.jpg>
+Package pdftex.def Info: Gambar/contour-viridis.jpg  used on input line 122.
+(pdftex.def)             Requested size: 199.16928pt x 149.49637pt.
+ [76 <./Gambar/contour-viridis.jpg>]
+<Gambar/jet-before.jpg, id=376, 199.20976pt x 149.52414pt>
+File: Gambar/jet-before.jpg Graphic file (type jpg)
+<use Gambar/jet-before.jpg>
+Package pdftex.def Info: Gambar/jet-before.jpg  used on input line 131.
+(pdftex.def)             Requested size: 199.16928pt x 149.49637pt.
+<Gambar/viridis-after.jpg, id=377, 199.20976pt x 149.52414pt>
+File: Gambar/viridis-after.jpg Graphic file (type jpg)
+<use Gambar/viridis-after.jpg>
+Package pdftex.def Info: Gambar/viridis-after.jpg  used on input line 132.
+(pdftex.def)             Requested size: 199.16928pt x 149.49637pt.
+
+[77 <./Gambar/jet-before.jpg> <./Gambar/viridis-after.jpg>] [78]
+<Gambar/act-diagram.jpg, id=385, 358.50659pt x 387.96747pt>
+File: Gambar/act-diagram.jpg Graphic file (type jpg)
+<use Gambar/act-diagram.jpg>
+Package pdftex.def Info: Gambar/act-diagram.jpg  used on input line 148.
+(pdftex.def)             Requested size: 361.3499pt x 391.04485pt.
+ [79 <./Gambar/act-diagram.jpg>] [80] [81]
+<Gambar/peak-detect-contoh.jpg, id=396, 219.20569pt x 158.71451pt>
+File: Gambar/peak-detect-contoh.jpg Graphic file (type jpg)
+<use Gambar/peak-detect-contoh.jpg>
+Package pdftex.def Info: Gambar/peak-detect-contoh.jpg  used on input line 168.
+
+(pdftex.def)             Requested size: 227.62204pt x 164.80972pt.
+ [82 <./Gambar/peak-detect-contoh.jpg>]
+<Gambar/polar-contoh.jpg, id=400, 227.86911pt x 246.38669pt>
+File: Gambar/polar-contoh.jpg Graphic file (type jpg)
+<use Gambar/polar-contoh.jpg>
+Package pdftex.def Info: Gambar/polar-contoh.jpg  used on input line 207.
+(pdftex.def)             Requested size: 227.62204pt x 246.12666pt.
+) [83 <./Gambar/polar-contoh.jpg>] (./skripsi.bbl [84]
+Underfull \hbox (badness 2582) in paragraph at lines 4--9
+[]\T1/ptm/m/it/12 Statistik So-si-al Bu-da-ya\T1/ptm/m/n/12 .  Bad-an Pu-sat St
+a-tis-tik, 2018.  Di-ak-ses da-
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 4--9
+\T1/ptm/m/n/12 ri $https : / / www . bps . go . id / /publication / 2019 / 07 /
+ 05 / 153a8fecadb642f5c4cf32e5 /
+ []
+
+[85
+
+] [86]
+Underfull \hbox (badness 10000) in paragraph at lines 190--196
+\T1/ptm/m/n/12 https : / / www . wqxr . org / story / how-[]was-[]musical-[]not
+ation-[]invented-[]brief-[]history/$,
+ []
+
+[87]) [88] [89
+
+] (./app1.tex
+BAB VI.
+File: logoUGM.jpg Graphic file (type jpg)
+<use logoUGM.jpg>
+Package pdftex.def Info: logoUGM.jpg  used on input line 11.
+(pdftex.def)             Requested size: 142.26378pt x 144.33249pt.
+[90
+
+] [91]) [92] (./skripsi.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 9723 strings out of 478994
+ 156654 string characters out of 5858185
+ 760225 words of memory out of 5000000
+ 26868 multiletter control sequences out of 15000+600000
+ 442727 words of font info for 76 fonts, out of 8000000 for 9000
+ 1164 hyphenation exceptions out of 8191
+ 128i,12n,131p,2099b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/te
+xlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/tex
+live/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texl
+ive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texliv
+e/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/
+2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/202
+1/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/t
+exmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/20
+21/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-d
+ist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2021/texmf-dist/fonts
+/type1/urw/times/utmr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw
+/times/utmri8a.pfb>
+Output written on skripsi.pdf (111 pages, 5206348 bytes).
+PDF statistics:
+ 481 PDF objects out of 1000 (max. 8388607)
+ 288 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 316 words of extra memory for PDF output out of 10000 (max. 10000000)
+

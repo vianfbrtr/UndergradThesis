@@ -1,0 +1,39 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{\emph {Lambang }}]\begingroup \emph {Kuantitas } \nomunit {\emph {Satuan }}\nomeqref {0.0}\nompageref{xvi}
+  \item [{$c$}]\begingroup cepat rambat gelombang \nomunit{m/s}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$d$}]\begingroup diameter \bandulan \nomunit{mm}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$f$}]\begingroup frekuensi getaran \nomunit{Hz}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$f_1$}]\begingroup frekuensi fundamental bunyi \bundengan \nomunit{Hz}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$f_2$}]\begingroup frekuensi \emph{overtone} pertama \bundengan \nomunit{Hz}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$f_3$}]\begingroup frekuensi \emph{overtone} kedua \bundengan \nomunit{Hz}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$f_4$}]\begingroup frekuensi \emph{overtone} ketiga \bundengan \nomunit{Hz}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$h$}]\begingroup tinggi \bandulan \nomunit{mm}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$j$}]\begingroup bilangan kompleks \nomunit{-}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$k$}]\begingroup bilangan gelombang \nomunit{m$^{-1}$}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$n$}]\begingroup jumlah getaran \nomunit{-}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$p$}]\begingroup tekanan bunyi \nomunit{Pa}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$p_0$}]\begingroup tekanan fluida sekitar \nomunit{Pa}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$p_1$}]\begingroup fluktuasi tekanan fluida \nomunit{Pa}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$p_T$}]\begingroup tekanan fluida total \nomunit{Pa}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$p_{ref}$}]\begingroup tekanan bunyi referensi \nomunit{Pa}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$Q$}]\begingroup debit udara berdenyut \nomunit{kg/m$^3$}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$r$}]\begingroup jarak radius perambatan bunyi \nomunit{m}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$T$}]\begingroup periode getaran  \nomunit{s}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$t$}]\begingroup waktu \nomunit{s}\nomeqref {0.0}\nompageref{xvii}
+  \item [{}]\begingroup \nomeqref {0.0}\nompageref{xvii}
+\nomgroup{B}
+  \item [{\emph {Lambang }}]\begingroup \emph {Kuantitas } \nomunit {\emph {Satuan }}\nomeqref {0.0}\nompageref{xvi}
+  \item [{$\theta$}]\begingroup sudut titik ukur terhadap arah getar sumber dipol \nomunit{º}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$\mu$}]\begingroup momen dipol \nomunit{m$^4$/s}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$\rho$}]\begingroup massa jenis medium \nomunit{kg/m$^3$}\nomeqref {0.0}\nompageref{xvii}
+  \item [{$\omega$}]\begingroup frekuensi denyut bunyi \nomunit{rad/s}\nomeqref {0.0}\nompageref{xvii}
+  \item [{}]\begingroup \nomeqref {0.0}\nompageref{xvii}
+\nomgroup{E}
+  \item [{GUI}]\begingroup \textit{Graphical User Interface}\nomeqref {0.0}\nompageref{xvii}
+  \item [{SUS}]\begingroup \textit{System Usability Scale}\nomeqref {0.0}\nompageref{xvii}
+  \item [{TTB}]\begingroup Tingkat Tekanan Bunyi\nomeqref {0.0}\nompageref{xvii}
+  \item [{UNESCO}]\begingroup \textit{United Nations Educational, Scientific, and Cultural Organization}\nomeqref {0.0}\nompageref{xvii}
+
+\end{thenomenclature}

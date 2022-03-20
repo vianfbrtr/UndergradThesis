@@ -1,0 +1,91 @@
+\babel@toc {bahasa}{}
+\contentsline {chapter}{HALAMAN JUDUL}{i}{}%
+\contentsline {chapter}{PERNYATAAN BEBAS PLAGIASI}{ii}{}%
+\contentsline {chapter}{HALAMAN PENGESAHAN}{iii}{}%
+\contentsline {chapter}{HALAMAN PERSEMBAHAN}{iv}{}%
+\contentsline {chapter}{HALAMAN MOTO}{v}{}%
+\contentsline {chapter}{KATA PENGANTAR}{vi}{}%
+\contentsline {chapter}{DAFTAR ISI}{viii}{}%
+\contentsline {chapter}{DAFTAR TABEL}{xi}{}%
+\contentsline {chapter}{DAFTAR GAMBAR}{xii}{}%
+\contentsline {chapter}{DAFTAR LAMBANG DAN SINGKATAN}{xvi}{}%
+\contentsline {chapter}{INTISARI}{xviii}{}%
+\contentsline {chapter}{\textit {ABSTRACT}}{xix}{}%
+\babel@toc {bahasa}{}
+\babel@toc {bahasa}{}
+\contentsline {chapter}{\numberline {I}PENDAHULUAN}{1}{}%
+\contentsline {section}{\numberline {I.1.}Latar Belakang}{1}{}%
+\contentsline {section}{\numberline {I.2.}Perumusan Masalah}{4}{}%
+\contentsline {section}{\numberline {I.3.}Batasan Masalah}{8}{}%
+\contentsline {section}{\numberline {I.4.}Tujuan}{9}{}%
+\contentsline {section}{\numberline {I.5.}Manfaat}{9}{}%
+\contentsline {chapter}{\numberline {II}TINJAUAN PUSTAKA}{11}{}%
+\contentsline {section}{\numberline {II.1.}Material dan Konstruksi \textit {Bundengan}}{11}{}%
+\contentsline {section}{\numberline {II.2.}Bunyi \textit {Bundengan}}{15}{}%
+\contentsline {subsection}{\numberline {II.2.1.}Mekanisme Senar-\textit {Bandul}}{15}{}%
+\contentsline {subsection}{\numberline {II.2.2.}\textit {Kowangan} sebagai Resonator \textit {Bundengan}}{20}{}%
+\contentsline {section}{\numberline {II.3.}Direktivitas \textit {Bundengan}}{22}{}%
+\contentsline {paragraph}{}{26}{}%
+\contentsline {section}{\numberline {II.4.}Visualisasi Data Akustika Musik}{27}{}%
+\contentsline {section}{\numberline {II.5.}Kontribusi Penelitian Penulis}{31}{}%
+\contentsline {chapter}{\numberline {III}DASAR TEORI}{33}{}%
+\contentsline {section}{\numberline {III.1.}Parameter Akustika pada Instrumen Musik}{33}{}%
+\contentsline {subsection}{\numberline {III.1.1.}Tingkat Tekanan Bunyi}{33}{}%
+\contentsline {subsection}{\numberline {III.1.2.}Frekuensi}{35}{}%
+\contentsline {subsection}{\numberline {III.1.3.}Direktivitas Bunyi}{37}{}%
+\contentsline {section}{\numberline {III.2.}Visualisasi}{39}{}%
+\contentsline {subsection}{\numberline {III.2.1.}Dasar Visualisasi}{42}{}%
+\contentsline {subsubsection}{\numberline {III.2.1.1.}Posisi}{44}{}%
+\contentsline {subsubsection}{\numberline {III.2.1.2.}Bentuk}{44}{}%
+\contentsline {subsubsection}{\numberline {III.2.1.3.}Ukuran (Panjang, Luas, dan Volume)}{45}{}%
+\contentsline {subsubsection}{\numberline {III.2.1.4.}Kecerahan}{45}{}%
+\contentsline {subsubsection}{\numberline {III.2.1.5.}Warna}{45}{}%
+\contentsline {subsubsection}{\numberline {III.2.1.6.}Orientasi}{46}{}%
+\contentsline {subsubsection}{\numberline {III.2.1.7.}Tekstur}{47}{}%
+\contentsline {subsubsection}{\numberline {III.2.1.8.}Gerakan}{47}{}%
+\contentsline {subsection}{\numberline {III.2.2.}Teknik Visualisasi untuk Data Multivariabel}{47}{}%
+\contentsline {subsubsection}{\numberline {III.2.2.1.}Teknik Berbasis Titik}{48}{}%
+\contentsline {subsubsection}{\numberline {III.2.2.2.}Teknik Berbasis Garis}{49}{}%
+\contentsline {subsubsection}{\numberline {III.2.2.3.}Teknik Berbasis Area}{50}{}%
+\contentsline {section}{\numberline {III.3.}Perancangan dan Pengembangan Produk}{52}{}%
+\contentsline {subsection}{\numberline {III.3.1.}Identifikasi Kebutuhan Pengguna}{52}{}%
+\contentsline {subsection}{\numberline {III.3.2.}Penetapan Spesifikasi Produk}{54}{}%
+\contentsline {subsubsection}{\numberline {III.3.2.1.}Pembuatan Daftar Metrik}{55}{}%
+\contentsline {subsubsection}{\numberline {III.3.2.2.}Pengumpulan Informasi Produk Kompetitif sebagai Tolak Ukur}{56}{}%
+\contentsline {subsubsection}{\numberline {III.3.2.3.}Penetapan Target}{56}{}%
+\contentsline {subsection}{\numberline {III.3.3.}Uji Konsep Produk}{57}{}%
+\contentsline {subsubsection}{\numberline {III.3.3.1.}Penentuan Tujuan Uji}{57}{}%
+\contentsline {subsubsection}{\numberline {III.3.3.2.}Pemilihan Populasi Survei}{57}{}%
+\contentsline {subsubsection}{\numberline {III.3.3.3.}Pemilihan Format Survei}{58}{}%
+\contentsline {subsubsection}{\numberline {III.3.3.4.}Pengekspresian Konsep}{59}{}%
+\contentsline {subsubsection}{\numberline {III.3.3.5.}Pengukuran Respon Calon Pengguna}{61}{}%
+\contentsline {subsubsection}{\numberline {III.3.3.6.}Interpretasi Hasil}{62}{}%
+\contentsline {subsubsection}{\numberline {III.3.3.7.}Perencanaan Lanjutan Berdasarkan Hasil}{63}{}%
+\contentsline {chapter}{\numberline {IV}PELAKSANAAN PENELITIAN}{64}{}%
+\contentsline {section}{\numberline {IV.1.}Alat dan Bahan Penelitian}{64}{}%
+\contentsline {section}{\numberline {IV.2.}Tata Laksana Penelitian}{64}{}%
+\contentsline {subsection}{\numberline {IV.2.1.}Studi Literatur}{64}{}%
+\contentsline {subsection}{\numberline {IV.2.2.}Identifikasi Kebutuhan Pengguna}{66}{}%
+\contentsline {subsection}{\numberline {IV.2.3.}Penentuan Spesifikasi Sistem Visualisasi}{66}{}%
+\contentsline {subsection}{\numberline {IV.2.4.}Penyusunan Data Direktivitas \textit {Bundengan }}{67}{}%
+\contentsline {subsection}{\numberline {IV.2.5.}Pembuatan Model Visualisasi Data Direktivitas \textit {Bundengan }}{67}{}%
+\contentsline {subsection}{\numberline {IV.2.6.}Pembuatan GUI Sistem Visualisasi}{67}{}%
+\contentsline {subsection}{\numberline {IV.2.7.}Pengujian Sistem Visualisasi pada Pengguna}{68}{}%
+\contentsline {section}{\numberline {IV.3.}Rencana Analisis Hasil}{68}{}%
+\contentsline {chapter}{\numberline {V}HASIL DAN PEMBAHASAN}{69}{}%
+\contentsline {section}{\numberline {V.1.}Proses Identifikasi Kebutuhan Pengguna}{69}{}%
+\contentsline {section}{\numberline {V.2.}Penentuan dan Perancangan Spesifikasi Sistem Visualisasi}{72}{}%
+\contentsline {subsection}{\numberline {V.2.1.}Rancangan Laman Bantuan}{72}{}%
+\contentsline {subsection}{\numberline {V.2.2.}Rancangan Grafik Kontur}{73}{}%
+\contentsline {subsection}{\numberline {V.2.3.}Rancangan Plot Diagram Polar}{78}{}%
+\contentsline {section}{\numberline {V.3.}Pembangunan Sistem Visualisasi Data Direktivitas \textit {Bundengan }}{78}{}%
+\contentsline {subsection}{\numberline {V.3.1.}Penyusunan Data}{79}{}%
+\contentsline {subsection}{\numberline {V.3.2.}Pembuatan Model Visualisasi}{81}{}%
+\contentsline {subsection}{\numberline {V.3.3.}Pembuatan GUI Sistem}{83}{}%
+\contentsline {section}{\numberline {V.4.}Pengujian Sistem oleh Calon Pengguna}{84}{}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{85}{}%
+\contentsline {chapter}{LAMPIRAN}{}
+\contentsline {chapter}{\numberline {VI}TAUTAN EKSTERNAL}{90}{}%
+\contentsline {section}{\numberline {VI.1.}Contoh Gambar pada Lampiran}{90}{}%
+\contentsline {section}{\numberline {VI.2.}Contoh Penulisan Tabel pada Lampiran}{90}{}%
+\contentsline {section}{\numberline {VI.3.}Contoh Penulisan Persamaan pada Lampiran}{92}{}%

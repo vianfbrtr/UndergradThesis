@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: skripsi.aux
+The style file: skripsi.bst
+Database file #1: pustaka.bib
+You've used 44 entries,
+            2230 wiz_defined-function locations,
+            764 strings with 10909 characters,
+and the built_in function-call counts, 9371 in all, are:
+= -- 1248
+> -- 259
+< -- 7
++ -- 111
+- -- 67
+* -- 390
+:= -- 1562
+add.period$ -- 141
+call.type$ -- 44
+change.case$ -- 15
+chr.to.int$ -- 0
+cite$ -- 44
+duplicate$ -- 435
+empty$ -- 829
+format.name$ -- 67
+if$ -- 2323
+int.to.chr$ -- 0
+int.to.str$ -- 44
+missing$ -- 34
+newline$ -- 229
+num.names$ -- 40
+pop$ -- 141
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 479
+stack$ -- 0
+substring$ -- 151
+swap$ -- 97
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 50
+width$ -- 46
+write$ -- 510
